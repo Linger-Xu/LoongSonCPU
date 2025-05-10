@@ -27,6 +27,7 @@ LoongSonCPU/
 │   └── ...            # 其他模块
 ├── func/               # 功能测试相关
 └── chiplab-chiplab_diff.zip  # 测试环境
+└── 指令集答题-2024-LA.doc  # 现场赛文档
 ```
 
 ## 技术亮点
